@@ -1,4 +1,5 @@
 # Vrinda-Store-Sales-Data-Analysis
+![Capture](https://github.com/pkchoudhary08/Vrinda-Store-Sales-Data-Analysis/assets/132553412/1fab03d2-6dbd-44e0-9853-3e0a7e17b1b6)
 
 # Objective:
 Vrinda store wants to create an annual sales report for 2022.
